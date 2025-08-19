@@ -79,36 +79,4 @@ The player competes against the computer by placing ships on a 10x10 grid and ta
 
 ---
 
-## 🖥️ Sample Gameplay
-
- |0123456789|
-0|@         |0
-1|          |1
-2|    @     |2
-3|          |3
-4|          |4
-5|          |5
-6|   @      |6
-7|          |7
-8|          |8
-9|     @    |9
- |0123456789|
-
-Deploy your ships:
-Enter X coordinate for your #1 ship: 0
-Enter Y coordinate for your #1 ship: 0
-...
-
-YOUR TURN
-Enter X coordinate: 2
-Enter Y coordinate: 5
-Sorry, you missed
-
-COMPUTER'S TURN
-Computer missed
-
-Your ships: 5 | Computer ships: 5
-
----
-
 <p align="center">❤️ Made with love by <b>Krisna Arji</b></p>
